@@ -1,2 +1,2 @@
-# Sape_gato
+# SapeGato
 Algo para empezar GitHub :D
